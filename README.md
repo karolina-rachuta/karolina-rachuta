@@ -11,4 +11,7 @@ Karolina
 - 👀 I am looking for a job in frontend react projects.
 - 📫 How to reach me: https://www.linkedin.com/in/karolina-rachuta/
 
+  Projects:
+  https://mbayda.web.amu.edu.pl/
+
 
