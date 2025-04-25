@@ -4,8 +4,6 @@ I am a Front-end React Developer experienced with creating webpages and web apps
 I possess backend skills in Node.js, Express.js, and NoSQL databases like MongoDB, as well as a foundational understanding of SQL.
 I have experience working with Salesforce Commerce Cloud (SFCC) and a unique background in scientific research and project management.
 
-Cheers,
-Karolina
 
 - 🛠️ React, JavaScript, Node Js, Express js, HTML5, CSS, SCSS, Bootstrap, MongoDB, SQL, Git, Salesforce Commerce Cloud, Prisma, Netlify, Firebase, REST API, responsive web design, Slack, Trello
 - 👀 I am looking for a job in frontend react projects.
@@ -13,5 +11,10 @@ Karolina
 
   Projects:
   https://mbayda.web.amu.edu.pl/
+  https://bestshop-rwd-react.netlify.app/
+  https://chemistryandfun-8099e.web.app/
+
+Cheers,
+Karolina
 
 
