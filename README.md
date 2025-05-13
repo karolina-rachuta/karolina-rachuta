@@ -10,7 +10,7 @@ I have experience working with Salesforce Commerce Cloud (SFCC) and a unique bac
 - 📫 How to reach me: https://www.linkedin.com/in/karolina-rachuta/
 
   Projects:
-- https://mbayda.web.amu.edu.pl/   (React, SCSS, high website performance)
+- https://mbayda.web.amu.edu.pl/   (React, SCSS, high performance)
 - https://bestshop-rwd-react.netlify.app/  
 - https://chemistryandfun-8099e.web.app/
 - https://saxo-jazz-djs.web.app/
