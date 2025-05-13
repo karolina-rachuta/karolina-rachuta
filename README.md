@@ -5,7 +5,7 @@ I possess backend skills in Node.js, Express.js, and NoSQL databases like MongoD
 I have experience working with Salesforce Commerce Cloud (SFCC) and a unique background in scientific research and project management.
 
 
-- 🛠️ React, JavaScript, Node Js, Next js, Express js, HTML5, CSS, SCSS, Bootstrap, MongoDB, SQL, Git, Contenful (CMS), Salesforce Commerce Cloud, Prisma, Netlify, Firebase, REST API, responsive web design, Slack, Jira, Trello
+- 🛠️ React, JavaScript, Next js, Node Js, Express js, HTML5, CSS, SCSS, Bootstrap, MongoDB, SQL, Git, Contenful (CMS), Salesforce Commerce Cloud, Prisma, Netlify, Firebase, REST API, responsive web design, Slack, Jira, Trello
 - 👀 I am looking for a job in frontend react projects.
 - 📫 How to reach me: https://www.linkedin.com/in/karolina-rachuta/
 
@@ -14,7 +14,6 @@ I have experience working with Salesforce Commerce Cloud (SFCC) and a unique bac
 - https://bestshop-rwd-react.netlify.app/  
 - https://chemistryandfun-8099e.web.app/ 
 - https://assignment-nextjs-rwd.web.app/ (Next JS, Tailwind, Prettier, ESLint)
-- https://saxo-jazz-djs.web.app/
 
 Cheers,
 Karolina
