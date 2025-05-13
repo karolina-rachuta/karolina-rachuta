@@ -12,7 +12,8 @@ I have experience working with Salesforce Commerce Cloud (SFCC) and a unique bac
   Projects:
 - https://mbayda.web.amu.edu.pl/   (React, SCSS, high performance)
 - https://bestshop-rwd-react.netlify.app/  
-- https://chemistryandfun-8099e.web.app/
+- https://chemistryandfun-8099e.web.app/ 
+- https://assignment-nextjs-rwd.web.app/ (Next JS, Tailwind, Prettier, ESLint)
 - https://saxo-jazz-djs.web.app/
 
 Cheers,
