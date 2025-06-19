@@ -4,7 +4,11 @@ I am a Front-end React Developer with over 2 years of experience of creating web
 I possess backend skills in Node.js, Express.js, and NoSQL databases like MongoDB, as well as a foundational understanding of SQL.
 
 
-- 🛠️ React, JavaScript, Next js, Node Js, Express js, HTML5, CSS, SCSS, Bootstrap, MongoDB, SQL, Git, Contenful (CMS), Salesforce Commerce Cloud, Prisma, Netlify, Firebase, REST API, responsive web design, Slack, Jira, Trello
+- 🛠️ React, JavaScript, Next js, Node Js, Express js
+- CSS, SCSS, Bootstrap, Tailwind CSS
+- MongoDB, SQL
+- Contenful (CMS), Netlify, Firebase, REST API
+  
 - 👀 I am looking for a job in frontend react projects.
 - 📫 How to reach me: https://www.linkedin.com/in/karolina-rachuta/
 
