@@ -1,8 +1,7 @@
 👋 Hi,
   
-I am a Front-end React Developer experienced with creating webpages and web apps using React, JavaScript, HTML5, CSS, and SCSS. 
+I am a Front-end React Developer with over 2 years of experience of creating webpages and web apps using React, JavaScript, HTML5, CSS, and SCSS. 
 I possess backend skills in Node.js, Express.js, and NoSQL databases like MongoDB, as well as a foundational understanding of SQL.
-I have experience working with Salesforce Commerce Cloud (SFCC) and a unique background in scientific research and project management.
 
 
 - 🛠️ React, JavaScript, Next js, Node Js, Express js, HTML5, CSS, SCSS, Bootstrap, MongoDB, SQL, Git, Contenful (CMS), Salesforce Commerce Cloud, Prisma, Netlify, Firebase, REST API, responsive web design, Slack, Jira, Trello
