@@ -1,6 +1,6 @@
 👋 Hi,
   
-Frontend React Developer with over 2.5 years of experience building websites and web applications using React, TypeScript, Next.js, Tailwind CSS and SCSS. I have experience working for an NGO (https://github.com/FundacjaKompetencjiCyfrowych) and supporting another by developing its website, as well as creating websites as a freelance developer. My international experience includes working in the UK, USA, Japan, and UAE. Currently living in London. I am well-organized, detail-oriented, and have a strong eye for precision. I'm passionate about continuous learning and development, and I'm eager to contribute to ambitious projects with motivated teams.
+Frontend React Developer with over 2.5 years of experience building websites and web applications using React, TypeScript, Next.js, Tailwind CSS and SCSS. I have experience working for an NGO (https://github.com/FundacjaKompetencjiCyfrowych) and developing websites as a freelance developer. My international experience includes working in the UK, USA, Japan, and UAE. Currently living in London. I am well-organized, detail-oriented, and have a strong eye for precision. I'm passionate about continuous learning and development, and I'm eager to contribute to ambitious projects with motivated teams.
 
 - 🛠️ React, JavaScript, TypeScript, Next js, Node Js, Express js
 - CSS, SCSS, Bootstrap, Tailwind CSS
