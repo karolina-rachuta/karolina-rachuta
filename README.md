@@ -11,6 +11,7 @@ Front-end React Developer with over 2 years of experience creating websites and 
 - 📫 How to reach me: https://www.linkedin.com/in/karolina-rachuta/
 
   Projects:
+- https://quickmealplan.netlify.app/ (React, SCSS, ContextAPI, Prettier, ESLint, Netlify)
 - https://mbayda.web.amu.edu.pl/   (React, SCSS, high performance)
 - https://catsitting.netlify.app/  (React, SCSS, emailJS, ContextAPI, mobile first)
 - https://bestshop-rwd-react.netlify.app/  
