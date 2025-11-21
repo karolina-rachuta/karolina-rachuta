@@ -1,8 +1,8 @@
 👋 Hi,
   
-Front-end React Developer with over 2 years of experience creating websites and web apps using React, JavaScript, HTML5, CSS, and SCSS. Possesses backend skills in Node.js, Express.js, MongoDB, as well as the basics of SQL. Scientific background taught me to work independently and as part of a team, always focused on achieving a common goal. I am extremely well-organized, meticulous, and have developed a keen attention to detail. I am passionate about continuous learning and development, and I am eager to contribute to larger projects with ambitious teams. 
+Frontend React Developer with over 2.5 years of experience building websites and web applications using React, TypeScript, Next.js, Tailwind CSS and SCSS. I have experience working for an NGO (https://github.com/FundacjaKompetencjiCyfrowych) and supporting another by developing its website, as well as creating websites as a freelance developer. My international experience includes working in the UK, USA, Japan, and UAE. Currently living in London. I am well-organized, detail-oriented, and have a strong eye for precision. I'm passionate about continuous learning and development, and I'm eager to contribute to ambitious projects with motivated teams.
 
-- 🛠️ React, JavaScript, Next js, Node Js, Express js
+- 🛠️ React, JavaScript, TypeScript, Next js, Node Js, Express js
 - CSS, SCSS, Bootstrap, Tailwind CSS
 - MongoDB, SQL
 - Contenful (CMS), Netlify, Firebase, REST API
