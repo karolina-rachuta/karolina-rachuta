@@ -17,6 +17,7 @@ My international experience includes working in the UK, USA, Japan, and UAE. Cur
   Projects:
 - https://mbayda.web.amu.edu.pl/   (React, SCSS, CMS - Contenful, high performance)
 - https://xn--sonik-stowarzyszenie-pld.pl/ (Next.js, Tailwind, CMS - Sanity CMS)
+- https://mindthekite.pl/
 - https://quickmealplan.netlify.app/ (Web application - React, SCSS, ContextAPI, Netlify)
 - https://chemistryandfun-8099e.web.app/ (Web application - React, SCSS, ContextAPI, Firebase)
 - https://bestshop-rwd-react.netlify.app/  (React, SCSS)
