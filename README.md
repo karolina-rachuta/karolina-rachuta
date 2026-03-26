@@ -1,6 +1,6 @@
 👋 Hi,
   
-Frontend Developer with over 2.5 years of experience building websites and web applications using React, TypeScript, Next.js, Tailwind CSS and SCSS. I have experience:
+Software Developer with over 2.5 years of experience building websites and web applications using React, TypeScript, Next.js, Tailwind CSS and SCSS. I have experience:
 - working for an NGOs: Digital Skills Foundation (https://github.com/FundacjaKompetencjiCyfrowych) and East London Waterworks Parks
 - and developing websites as a freelance developer.
 
