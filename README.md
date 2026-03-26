@@ -12,14 +12,14 @@ My international experience includes working in the UK, USA, Japan, and UAE. Cur
 - Contenful (CMS), Netlify, Firebase, REST API
   
 - 👀 I am looking for a frontend projects.
-- 📫 How to reach me: https://www.linkedin.com/in/karolina-rachuta/
+- 📫 How to reach me: karolina.additional@gmail.com
 
   Projects:
 - https://mbayda.web.amu.edu.pl/   (React, SCSS, CMS - Contenful, high performance)
-- https://xn--sonik-stowarzyszenie-pld.pl/ (Next.js, Tailwind, CMS - Sanity CMS)
+- https://xn--sonik-stowarzyszenie-pld.pl/ (Next.js, Tailwind, CMS - Sanity)
 - https://quickmealplan.netlify.app/ (Web application - React, TypeScript, SCSS, ContextAPI, Netlify)
-- https://chemistryandfun-8099e.web.app/ (Web application - React, SCSS, ContextAPI, Firebase)
-- https://bestshop-rwd-react.netlify.app/  (React, SCSS)
+- https://chemistryandfun-8099e.web.app/ (Web application - React, TypeScript, SCSS, ContextAPI, Firebase)
+- https://bestshop-rwd-react.netlify.app/  (React, SCSS, RWD)
 - https://catsitting.netlify.app/ (React, TypeScript, EmailJS, React Hook Form, SCSS, ContextAPI, Netlify)
 
 Cheers,
