@@ -11,7 +11,6 @@ My international experience includes working in the UK, USA, Japan, and UAE. Cur
 - MongoDB, SQL
 - Contenful (CMS), Netlify, Firebase, REST API
   
-- 👀 I am looking for a frontend projects.
 - 📫 How to reach me: karolina.additional@gmail.com
 
   Projects:
